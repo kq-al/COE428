@@ -1,0 +1,18 @@
+#include "mySort.h"
+
+void mySort(int array[], unsigned int first, unsigned int last)
+    {
+      int i, j, element;
+      
+      if (first <= null || last <= null){
+	printf("No cards available to sort");
+	exit();
+      }
+      else{
+	for (i=1; i<lats+1; i++){
+	  
+	}
+      
+      
+      
+    }

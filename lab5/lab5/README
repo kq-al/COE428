@@ -1,0 +1,3 @@
+Question: 
+I would modify the code to check the previous char after encountering a '>' if '/' was the previous then it would be 
+considered a stand alone tag and allowed. But it would not be added onto the stack as there is no need.
